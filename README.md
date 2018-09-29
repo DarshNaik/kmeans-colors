@@ -9,3 +9,4 @@ For example:
 ```
 python .\color_kmeans.py --image images/sherlock.png --clusters 3
 ```
+
