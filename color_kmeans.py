@@ -1,6 +1,7 @@
 # to run program type :
 # python color_kmeans.py --image images/jp.png --clusters 3
 
+
 from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
 import argparse
