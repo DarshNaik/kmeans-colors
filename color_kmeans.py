@@ -1,4 +1,4 @@
-# to run program type :
+# you can run program by following command :
 # python color_kmeans.py --image images/jp.png --clusters 3
 
 
